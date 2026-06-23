@@ -8,12 +8,12 @@ template = """<!DOCTYPE html>
     <title>{title} - Legal Document</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body style="align-items: flex-start; padding-top: 3rem;">
+<body class="hub-layout" style="align-items: flex-start; padding-top: 3rem;">
     <div class="container container-legal">
         <h1>{app_name}</h1>
         <p class="subtitle">{document_type}</p>
         
-        <div class="legal-content">{content}</div>
+        <div class="legal-content-raw">{content}</div>
         
         <div class="button-group-row">
             <button onclick="window.close()" class="btn btn-secondary" style="min-width: 200px;">Close Tab</button>
@@ -25,7 +25,7 @@ template = """<!DOCTYPE html>
 files = [
     ('ppsadhguru.txt', 'sadhguru_pp.html', 'Wakeup with Sadhguru App', 'Privacy Policy'),
     ('tossadhguru.txt', 'sadhguru_tos.html', 'Wakeup with Sadhguru App', 'Terms of Service'),
-    ('ppsetscounter.txt', 'setcounter_pp.html', 'Simple set counter and timer App', 'Privacy Policy'),
+    # ('ppsetscounter.txt', 'setcounter_pp.html', 'Simple set counter and timer App', 'Privacy Policy'), # Replaced with rich HTML
     ('tossetscounter.txt', 'setcounter_tos.html', 'Simple set counter and timer App', 'Terms of Service')
 ]
 
