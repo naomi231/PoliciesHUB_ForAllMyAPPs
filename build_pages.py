@@ -26,7 +26,15 @@ files = [
     ('ppsadhguru.txt', 'sadhguru_pp.html', 'Wakeup with Sadhguru App', 'Privacy Policy'),
     ('tossadhguru.txt', 'sadhguru_tos.html', 'Wakeup with Sadhguru App', 'Terms of Service'),
     # ('ppsetscounter.txt', 'setcounter_pp.html', 'Simple set counter and timer App', 'Privacy Policy'), # Replaced with rich HTML
-    ('tossetscounter.txt', 'setcounter_tos.html', 'Simple set counter and timer App', 'Terms of Service')
+    ('tossetscounter.txt', 'setcounter_tos.html', 'Simple set counter and timer App', 'Terms of Service'),
+    ('privacy-policy_create_simple_installer.txt', 'create_simple_installer_pp.html', 'Create Simple Installer', 'Privacy Policy'),
+    ('terms-of-service_create_simple_installer.txt', 'create_simple_installer_tos.html', 'Create Simple Installer', 'Terms of Service'),
+    ('privacy-policy_mobile__desktop___web_privacy___tos_generator.txt', 'generator_pp.html', 'PP and TOS Online Generator', 'Privacy Policy'),
+    ('terms-of-service_mobile__desktop___web_privacy___tos_generator.txt', 'generator_tos.html', 'PP and TOS Online Generator', 'Terms of Service'),
+    ('privacy-policy_naomity_com.txt', 'naomity_com_pp.html', 'Naomity.com', 'Privacy Policy'),
+    ('terms-of-service_naomity_com.txt', 'naomity_com_tos.html', 'Naomity.com', 'Terms of Service'),
+    ('privacy-policy_simple_youtube_downloader.txt', 'simple_youtube_downloader_pp.html', 'Simple Youtube Downloader', 'Privacy Policy'),
+    ('terms-of-service_simple_youtube_downloader.txt', 'simple_youtube_downloader_tos.html', 'Simple Youtube Downloader', 'Terms of Service')
 ]
 
 for txt_file, html_file, app, doc_type in files:
