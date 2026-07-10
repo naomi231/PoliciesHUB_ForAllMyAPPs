@@ -8,14 +8,14 @@ template = """<!DOCTYPE html>
     <title>{title} - Legal Document</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body class="hub-layout" style="align-items: flex-start; padding-top: 3rem;">
+<body style="align-items: flex-start; padding-top: 3rem;">
     <div class="container container-legal">
-        <h1>{app_name}</h1>
-        <p class="subtitle">{document_type}</p>
+        <h1 style="text-align: left;">{app_name}</h1>
+        <p class="subtitle" style="text-align: left; margin-bottom: 2rem;">{document_type}</p>
         
-        <div class="legal-content-raw">{content}</div>
+        <div class="legal-content" style="white-space: pre-wrap; font-family: monospace; margin-bottom: 2rem;">{content}</div>
         
-        <div class="button-group-row">
+        <div class="button-group-row" style="justify-content: flex-start;">
             <button onclick="window.close()" class="btn btn-secondary" style="min-width: 200px;">Close Tab</button>
         </div>
     </div>
@@ -34,7 +34,9 @@ files = [
     ('privacy-policy_naomity_com.txt', 'naomity_com_pp.html', 'Naomity.com', 'Privacy Policy'),
     ('terms-of-service_naomity_com.txt', 'naomity_com_tos.html', 'Naomity.com', 'Terms of Service'),
     ('privacy-policy_simple_youtube_downloader.txt', 'simple_youtube_downloader_pp.html', 'Simple Youtube Downloader', 'Privacy Policy'),
-    ('terms-of-service_simple_youtube_downloader.txt', 'simple_youtube_downloader_tos.html', 'Simple Youtube Downloader', 'Terms of Service')
+    ('terms-of-service_simple_youtube_downloader.txt', 'simple_youtube_downloader_tos.html', 'Simple Youtube Downloader', 'Terms of Service'),
+    ('privacy-policy_alarmtube.txt', 'alarmtube_pp.html', 'AlarmTube App', 'Privacy Policy'),
+    ('terms-of-service_alarmtube.txt', 'alarmtube_tos.html', 'AlarmTube App', 'Terms of Service')
 ]
 
 for txt_file, html_file, app, doc_type in files:

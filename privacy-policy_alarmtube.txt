@@ -1,24 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PP and TOS Online Generator - Legal Document</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body style="align-items: flex-start; padding-top: 3rem;">
-    <div class="container container-legal">
-        <h1 style="text-align: left;">PP and TOS Online Generator</h1>
-        <p class="subtitle" style="text-align: left; margin-bottom: 2rem;">Privacy Policy</p>
-        
-        <div class="legal-content" style="white-space: pre-wrap; font-family: monospace; margin-bottom: 2rem;">══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
 PRIVACY POLICY
-MOBILE, DESKTOP & WEB PRIVACY & TOS GENERATOR
+ALARMTUBE
 ══════════════════════════════════════════════════════════════════════
 
-Effective Date: June 28, 2026
+Effective Date: July 10, 2026
 
-This Privacy Policy describes how Naomi Makino ("we," "us," or "our") collects, uses, and shares information in connection with your use of our website Mobile, Desktop & Web Privacy & ToS Generator (the "Service").
+This Privacy Policy describes how Naomi Makino | Naomity.com ("we," "us," or "our") collects, uses, and shares information in connection with your use of our mobile app AlarmTube (the "Service").
 
 By accessing or using the Service, you acknowledge that you have read and understood this Privacy Policy. If you do not agree with its terms, please do not use the Service.
 
@@ -28,11 +15,7 @@ By accessing or using the Service, you acknowledge that you have read and unders
 
 We may collect the following categories of information:
 
-  • Location
-  • Personal Info
-  • Files & Storage
-  • Usage Stats
-  • Financial Info
+  • We do not collect any personal data.
 
 We collect this information when you:
   (a) Register for or log in to an account;
@@ -41,20 +24,6 @@ We collect this information when you:
   (d) Complete surveys, contests, or promotions;
   (e) Make in-app purchases.
 
-Location Data
-We access your device's precise or approximate location (via GPS, Wi-Fi triangulation, or network signals) to provide location-based features of the Service. Location data is processed in real time and is not stored on our servers unless you explicitly save a location-tagged record. You may revoke location permission at any time through your device's system settings; doing so will disable location-dependent features.
-
-Personal Identification Information
-We collect personal information such as your name, username, date of birth, and profile details when you register for an account or update your profile. This information is used to personalise your experience, communicate with you, and comply with legal obligations. You have the right to access, correct, and delete this information at any time.
-
-Files and Storage
-We request access to your device's storage to read, save, or cache app-related files (e.g., downloaded content, exported data, offline assets). We access only the files necessary for the Service's functionality. We do not scan, index, or transmit the contents of your personal files unless you explicitly share them through the Service.
-
-Usage Statistics and Diagnostics
-We collect information about how you interact with the Service, such as features accessed, buttons tapped, session duration, and crash reports. This data is aggregated or pseudonymised and is used exclusively to improve app performance, stability, and user experience.
-
-Financial and Payment Information
-When you make a purchase through the Service, payment transactions are processed by our trusted payment processor(s) (e.g., Google Play Billing, Stripe, PayPal). We do not directly collect or store your full credit or debit card numbers. We may retain transaction records (amount, date, anonymised card type) for accounting and fraud prevention purposes.
 
 ──────────────────────────────────────────────────────────────────────
 2. HOW WE USE YOUR INFORMATION
@@ -69,7 +38,7 @@ We use the information we collect to:
   • Monitor aggregate usage patterns and analyse trends to improve app performance;
   • Detect, investigate, and prevent fraudulent, abusive, or illegal activity;
   • Comply with applicable laws, regulations, and legal process;
-  • Enforce our Terms of Service and protect the rights, property, or safety of Naomi Makino, our users, and others.
+  • Enforce our Terms of Service and protect the rights, property, or safety of Naomi Makino | Naomity.com, our users, and others.
 
 ──────────────────────────────────────────────────────────────────────
 3. LEGAL BASIS FOR PROCESSING (GDPR)
@@ -92,9 +61,11 @@ We do not sell your personal data. We may share your information in the followin
 
   b) Third-Party SDKs and Services: The Service integrates the following third-party services, each of which may collect and process certain data independently according to their own privacy policies:
 
-  • Google Firebase Analytics (provided by Google LLC) – app usage analytics and event tracking. Data is aggregated and pseudonymised. Privacy Policy: https://firebase.google.com/support/privacy
+  • Google Play Services (provided by Google LLC) – core platform services, authentication, and in-app billing. Privacy Policy: https://policies.google.com/privacy
 
-  c) Business Transfers: If Naomi Makino is involved in a merger, acquisition, reorganisation, or sale of assets, your information may be transferred as part of that transaction. We will notify you of any such change via the email address associated with your account or a prominent in-app notice.
+  • Google AdMob (provided by Google LLC) – in-app advertising. AdMob may collect device identifiers and usage data to serve personalised advertisements. You may opt out of personalised advertising via your device's Ads settings. Privacy Policy: https://policies.google.com/technologies/ads
+
+  c) Business Transfers: If Naomi Makino | Naomity.com is involved in a merger, acquisition, reorganisation, or sale of assets, your information may be transferred as part of that transaction. We will notify you of any such change via the email address associated with your account or a prominent in-app notice.
 
   d) Legal Requirements: We may disclose your information when required by law, subpoena, court order, or other governmental request, or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or comply with a legal obligation.
 
@@ -109,7 +80,7 @@ We retain your personal data for as long as your account is active, or as long a
 When you delete your account, we will delete or anonymise your personal data within thirty (30) days, unless we are legally required to retain it longer (e.g., for tax, legal, or audit purposes). Aggregated, de-identified data may be retained indefinitely.
 
 **Account Deletion (iOS and Android):**
-You may request the deletion of your account and associated personal data at any time. You can typically initiate this process directly within the app (e.g., navigating to Settings &gt; Account &gt; Delete Account) or by contacting us at hello@naomity.com.
+You may request the deletion of your account and associated personal data at any time. You can typically initiate this process directly within the app (e.g., navigating to Settings > Account > Delete Account) or by contacting us at hello@naomity.com.
 
 ──────────────────────────────────────────────────────────────────────
 6. CHILDREN'S PRIVACY (COPPA)
@@ -151,7 +122,7 @@ However, no method of transmission over the Internet or electronic storage is 10
 9. INTERNATIONAL DATA TRANSFERS
 ──────────────────────────────────────────────────────────────────────
 
-Naomi Makino is based at: Hana Sennesh 19, Kiryat Motzkin Israel 263000.
+Naomi Makino | Naomity.com is based at: Hana Sennesh 19.
 
 Your information may be processed and stored in countries other than your country of residence. If you are located in the EEA, UK, or Switzerland, we ensure that cross-border data transfers are made in compliance with applicable law, including through the use of Standard Contractual Clauses (SCCs) approved by the European Commission, or reliance on adequacy decisions.
 
@@ -162,7 +133,7 @@ Your information may be processed and stored in countries other than your countr
 The Service may use cookies, local storage, session storage, and similar tracking technologies to store preferences, session data, and improve your experience. Third-party services integrated into the Service (see Section 4) may use their own tracking technologies, subject to their respective privacy policies. You can manage your cookie and tracking preferences through your browser or device settings.
 
 **App Tracking Transparency (iOS):**
-For users on iOS 14.5 or later, we will request your permission through the App Tracking Transparency framework before tracking your activity across other companies' apps and websites for targeted advertising. If you opt out, we will not track you for these purposes. You can manage this at any time in your iOS Settings -&gt; Privacy -&gt; Tracking.
+For users on iOS 14.5 or later, we will request your permission through the App Tracking Transparency framework before tracking your activity across other companies' apps and websites for targeted advertising. If you opt out, we will not track you for these purposes. You can manage this at any time in your iOS Settings -> Privacy -> Tracking.
 
 **Android Advertising ID:**
 You can reset your Android Advertising ID or opt out of interest-based advertising at any time via: Settings → Google → Ads on your Android device.
@@ -197,20 +168,13 @@ Your continued use of the Service after any changes become effective constitutes
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact our Privacy Team:
 
-  Company / Developer:  Naomi Makino
-  Address:              Hana Sennesh 19, Kiryat Motzkin Israel 263000
+  Company / Developer:  Naomi Makino | Naomity.com
+  Address:              Hana Sennesh 19
   Email:                hello@naomity.com
 
 We will respond to all privacy-related inquiries within thirty (30) days.
 
 ──────────────────────────────────────────────────────────────────────
-END OF PRIVACY POLICY – Mobile, Desktop & Web Privacy & ToS Generator
-Effective: June 28, 2026 | © 2026 Naomi Makino. All rights reserved.
-══════════════════════════════════════════════════════════════════════</div>
-        
-        <div class="button-group-row" style="justify-content: flex-start;">
-            <button onclick="window.close()" class="btn btn-secondary" style="min-width: 200px;">Close Tab</button>
-        </div>
-    </div>
-</body>
-</html>
+END OF PRIVACY POLICY – AlarmTube
+Effective: July 10, 2026 | © 2026 Naomi Makino | Naomity.com. All rights reserved.
+══════════════════════════════════════════════════════════════════════
