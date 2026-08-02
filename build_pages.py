@@ -36,7 +36,9 @@ files = [
     ('privacy-policy_simple_youtube_downloader.txt', 'simple_youtube_downloader_pp.html', 'Simple Youtube Downloader', 'Privacy Policy'),
     ('terms-of-service_simple_youtube_downloader.txt', 'simple_youtube_downloader_tos.html', 'Simple Youtube Downloader', 'Terms of Service'),
     ('privacy-policy_alarmtube.txt', 'alarmtube_pp.html', 'AlarmTube App', 'Privacy Policy'),
-    ('terms-of-service_alarmtube.txt', 'alarmtube_tos.html', 'AlarmTube App', 'Terms of Service')
+    ('terms-of-service_alarmtube.txt', 'alarmtube_tos.html', 'AlarmTube App', 'Terms of Service'),
+    ('privacy-policy_migideck.txt', 'migideck_pp.html', 'MigiDeck', 'Privacy Policy'),
+    ('terms-of-service_migideck.txt', 'migideck_tos.html', 'MigiDeck', 'Terms of Service')
 ]
 
 for txt_file, html_file, app, doc_type in files:
